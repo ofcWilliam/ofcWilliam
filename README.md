@@ -4,7 +4,7 @@
 
 ## I'm a Gamer, Developer, and Half Scripter!!
 
-- 🔭 I am currently working on a CCv2Hub!
+- 🔭 I am currently working on Roblox Game Hubs!
 - 🌱 I currently want to learning everything! 🤣
 - 👯 I’m soon looking to collaborate with other creators!
 - 🥅 2030 Goals: Open up my website to the public!
