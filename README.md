@@ -7,7 +7,7 @@
 - 🔭 I am currently working on a CCv2Hub!
 - 🌱 I currently want to learning everything! 🤣
 - 👯 I’m soon looking to collaborate with other creators!
-- 🥅 2022 Goals: Open up my website to the public!
+- 🥅 2030 Goals: Open up my website to the public!
 - ⚡ Fun fact: I love to script, stream, and play games
 
 <br />
