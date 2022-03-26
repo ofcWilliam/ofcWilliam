@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=officialrbxscripts.cf&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://officialrbxscripts.cf)
 
-## I'm a Gamer, Half Streamer, Developer, and Half Scripter!!
+## I'm a Gamer, Developer, and Half Scripter!!
 
 - 🔭 I am currently working on a CCv2Hub!
 - 🌱 I currently want to learning everything! 🤣
