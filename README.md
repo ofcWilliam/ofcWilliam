@@ -4,7 +4,7 @@
 
 ## I'm a Gamer, Developer, and Scripter!!
 
-- 🔭 I am currently working on Roblox Game Hubs!
+- 🔭 I am currently hard working on Roblox Script Hubs!
 - 🌱 I currently want to learning everything! 🤣
 - 👯 I’m soon looking to collaborate with other creators!
 - 🥅 2030 Goals: Open up my website to the public!
