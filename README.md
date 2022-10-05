@@ -1,10 +1,8 @@
-### Hi there, I'm W.Atwood - aka [AtwoodDEV][website] 👋
-
-[![Website](https://img.shields.io/website?label=atwooddevs.cf&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://atwooddevs.cf)
+### Hi there, I'm W.Atwood - aka [AtwoodDEV] 👋
 
 ## I'm a Gamer, Developer, and Scripter!!
 
-- 🔭 I am currently hard working on Roblox Script Hubs!
+- 🔭 I am currently hard working on learning to script!
 - 🌱 I currently want to learning everything! 🤣
 - 👯 I’m soon looking to collaborate with other creators!
 - 🥅 2030 Goals: Open up my website to the public!
