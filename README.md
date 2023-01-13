@@ -5,7 +5,7 @@
 - 🔭 I am currently hard working on learning to script!
 - 🌱 I currently want to learning everything! 🤣
 - 👯 I’m soon looking to collaborate with other creators!
-- 🥅 2030 Goals: Open up my website to the public!
+- 🥅 2024 Goals: Create & sell Skripts to the public!
 - ⚡ Fun fact: I love to script and play games!
 
 <br />
