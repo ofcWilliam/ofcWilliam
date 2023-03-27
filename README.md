@@ -1,3 +1,9 @@
+<h1 align="center">
+  Hey there, I'm W.Atwood - aka [AtwoodDEV]
+</h1>
+
+<br />
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTczNTIxZDA5MGZjOWNkOWE4ZTcyMTYyMGE2NmVhMWVhMDM5YjBhYyZjdD1n/u7AbendNk6qQ6P2zMb/giphy.gif" width="350"/>
 </div>
@@ -16,15 +22,6 @@
 
 <div id="bades2" align="center">
   <img src="https://komarev.com/ghpvc/?username=atwooddev&style=flat-square&color=blue" alt=""/>
-</div>
-
-<h1 align="center">
-  Hey there, I'm W.Atwood - aka [AtwoodDEV]
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <br />
