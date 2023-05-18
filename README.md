@@ -35,7 +35,6 @@
 <br />
 
 ### I'm a Developer, Gamer and Scripter!!
-- 🔭 I am currently learning Java & Skript!
 - 🌱 I currently learning Java and minecraft plugin development!
 - 👯 I’m soon looking to collaborate with other creators!
 - 🥅 2026 Goals: Create Minecraft Plugins & Skripts to release to the public!
