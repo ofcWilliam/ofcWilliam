@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there, I'm W.Atwood - aka [AtwoodDEV]
+  Hey there, I'm AtwoodDEV!
 </h1>
 
 <br />
@@ -34,12 +34,12 @@
 
 <br />
 
-### I'm a Gamer, Developer, and Scripter!!
-- 🔭 I am currently learning to script!
-- 🌱 I currently want to learning everything! 🤣
+### I'm a Developer, Gamer and Scripter!!
+- 🔭 I am currently learning Java & Skript!
+- 🌱 I currently learning Java and minecraft plugin development!
 - 👯 I’m soon looking to collaborate with other creators!
-- 🥅 2026 Goals: Create Skripts and release to the public!
-- ⚡ Fun fact: I love to script and play games!
+- 🥅 2026 Goals: Create Minecraft Plugins & Skripts to release to the public!
+- ⚡ Fun fact: I love to play games and develop minecraft spigot plugins!
 
 <br />
 
