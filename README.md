@@ -32,10 +32,10 @@
 <br />
 
 ### I'm a Developer, Gamer and Scripter!!
-- 🌱 I currently learning Java and minecraft plugin development!
+- 🌱 I currently learning Web Development!
 - 👯 I’m soon looking to collaborate with other creators!
-- 🥅 2026 Goals: Create Minecraft Plugins & Skripts to release to the public!
-- ⚡ Fun fact: I love to play games and develop minecraft spigot plugins!
+- 🥅 2026 Goals: Learn Programming!
+- ⚡ Fun fact: I love to play games and develop websites!
 
 <br />
 
