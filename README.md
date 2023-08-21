@@ -15,9 +15,6 @@
   <a href="https://github.com/AtwoodDEV">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Coming Soon!"/>
   </a>
-  <a href="[https://github.com/AtwoodDEV](https://twitter.com/AtwoodDEV)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="AtwoodDEVs - Twitter"/>
-  </a>
 </div>
 
 <div id="bades2" align="center">
