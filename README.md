@@ -32,7 +32,7 @@
 <br />
 
 ### I'm a Developer, Gamer and Scripter!!
-- 🌱 I currently learning Web Development!
+- 🌱 I currently learning Web Development and Lua!
 - 👯 I’m soon looking to collaborate with other creators!
 - 🥅 2026 Goals: Learn Programming!
 - ⚡ Fun fact: I love to play games and develop websites!
