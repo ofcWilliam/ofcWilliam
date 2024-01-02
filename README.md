@@ -12,9 +12,6 @@
   <a href="https://github.com/AtwoodDEV">
     <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://github.com/AtwoodDEV">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Coming Soon!"/>
-  </a>
 </div>
 
 <div id="bades2" align="center">
@@ -31,11 +28,9 @@
 
 <br />
 
-### I'm a Developer, Gamer and Scripter!!
-- 🌱 I currently learning Web Development and Lua!
-- 👯 I’m soon looking to collaborate with other creators!
-- 🥅 2026 Goals: Learn Programming!
-- ⚡ Fun fact: I love to play games and develop websites!
+### I'm a Developer and a Gamer!!
+- 🌱 I am currently learning Web Development like html and css!
+- ⚡ Fun fact: I love to play games and learn new skills!
 
 <br />
 
