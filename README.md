@@ -4,10 +4,6 @@
 
 <br />
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTczNTIxZDA5MGZjOWNkOWE4ZTcyMTYyMGE2NmVhMWVhMDM5YjBhYyZjdD1n/u7AbendNk6qQ6P2zMb/giphy.gif" width="350"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://github.com/ofcWilliam">
     <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
@@ -15,7 +11,7 @@
 </div>
 
 <div id="bades2" align="center">
-  <img src="https://komarev.com/ghpvc/?username=atwooddev&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=ofcWilliam&style=flat-square&color=blue" alt=""/>
 </div>
 
 <br />
