@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there, I'm AtwoodDEV!
+  Hey there, I'm ofcWilliam!
 </h1>
 
 <br />
@@ -9,7 +9,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://github.com/AtwoodDEV">
+  <a href="https://github.com/ofcWilliam">
     <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
