@@ -44,9 +44,9 @@
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AtwoodDEV&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ofcWilliam/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ofcWilliam&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ofcWilliam/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atwooddev&layout=compact&theme=vision-friendly-dark)](https://github.com/ofcWilliam/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofcWilliam&layout=compact&theme=vision-friendly-dark)](https://github.com/ofcWilliam/)
 
 <br />
 
