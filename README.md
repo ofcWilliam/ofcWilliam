@@ -2,12 +2,11 @@
   Hey there, I'm ofcWilliam!
 </h1>
 
-<br />
-
 <div id="badges" align="center">
   <a href="https://github.com/ofcWilliam">
     <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ofcWilliam&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="bades2" align="center">
